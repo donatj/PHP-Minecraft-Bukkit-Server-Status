@@ -59,11 +59,10 @@ foreach( $player_files as $pfile ) {
 		<h1>Minecraft</h1>
 		<?php
 					
-			if($online >= 1) {
+			if($online) {
 				echo '<h2 style="color: green">Server is Online!</h2>';
-			}
-			else {
-				echo '<h2 style="color: green">Server is Offline!</h2>';
+			}else{
+				echo '<h2 style="color: red">Server is Offline!</h2>';
 			}
 			
 			echo '<hr />';
