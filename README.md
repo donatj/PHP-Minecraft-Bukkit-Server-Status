@@ -5,6 +5,7 @@ Simple PHP Based Minecraft Server Status
 
 Dependencies
 ------------
- - PHP
+ - PHP 5+
+  - Yaml Extension
  - Bukkit Server
   - Essentials Plugin
