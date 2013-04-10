@@ -1,3 +1,5 @@
+## NO LONGER MAINTAINED
+
 Simple PHP Based Minecraft Server Status
 ========================================
 
